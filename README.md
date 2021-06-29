@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajveer-web
 - 👀 I’m interested in Web development and Web Application in different lanaguages.
 - 🌱 I’m currently learning Aruze, Cloud Platform.
-- 💞️ I’m looking IT company jobs in New Zealand. 
+- 💞️ I’m looking web development, Front-End Developer, Full Stack Developer jobs. 
 
 
 <!---
