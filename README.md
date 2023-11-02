@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajveer-web
-- 👀 I’m interested in Web development and Web Application in different lanaguages.
-- 🌱 I’m currently learning Aruze, Cloud Platform.
-- 💞️ I’m working as web development in LearningWorks company.
+- 👀 I’m an experienced web developer with a passion for creating web applications in various programming languages.
+- 🌱 I have  knowledge of Docker, Aruze, Cloud Platform, and AWS (Amazon Web Services) solutions.
+- 💼 I work as a web developer at LearningWorks, where I've gained valuable experience and skills in the field.
 
 
 <!---
