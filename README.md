@@ -14,7 +14,7 @@
 - Full-stack web development (4+ years experience)
 - LMS platform expertise: ![Moodle](https://img.shields.io/badge/Moodle-FF6B00?style=flat&logo=moodle&logoColor=white) ![Totara](https://img.shields.io/badge/Totara-1F3A93?style=flat) ![Mahara](https://img.shields.io/badge/Mahara-234D6E?style=flat) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 - CMS development: ![SilverStripe](https://img.shields.io/badge/SilverStripe-0083C7?style=flat) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-- Frontend technologies: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+- Frontend technologies: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 - Backend development: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) (OOP, Laravel)
 
 **Testing & Quality Assurance**
