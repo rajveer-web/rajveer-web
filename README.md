@@ -28,7 +28,7 @@ I'm an experienced **Web Developer & Application Support Specialist** with over 
 
 ---
 
-### 🛠 Previous and Recent Projects
+### 🛠 Projects
 
 - **Airline Management System** – Django, SQLite  
 - **E-Commerce Auction Site** – Django, SQLite  
