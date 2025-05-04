@@ -11,7 +11,8 @@ I'm an experienced **Web Developer & Application Support Specialist** with over 
 - Working with **HTML5, JavaScript, PHP, AngularJS**, and **SilverStripe CMS**  
 - Testing APIs and data integrations using **Postman**  
 - Providing **technical support and troubleshooting** for web platforms  
-- Building custom analytics reports via **Google Analytics API integration with PHP**  
+- Building custom analytics reports via **Google Analytics API integration with PHP**
+- Developing data visualizations and reporting using Power BI
 - Managing version control, CI/CD pipelines, and deployments using **GitHub/GitLab**
 
 ---
@@ -51,9 +52,9 @@ I'm an experienced **Web Developer & Application Support Specialist** with over 
 
 ### 🌱 Currently Learning
 
-- **AWS Cloud & Elasticsearch**  
-- Advanced **Django Projects** & Python scripting  
-- **Data Analytics** & Power BI
+- Pursuing AWS Cloud skills with a focus on Elasticsearch integration and deployment
+- Enhancing Django expertise through advanced project work and Python scripting
+
 
 ---
 
