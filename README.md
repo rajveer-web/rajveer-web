@@ -16,9 +16,7 @@
 - CMS development: ![SilverStripe](https://img.shields.io/badge/SilverStripe-0083C7?style=flat) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 - **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat) 
   ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat) ![React](https://img.shields.io/badge/React-61DAFB?style=flat)  
-- **Backend**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) (Django, Flask) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat) (Laravel, OOP)  
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat) 
+- **Backend**:   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat) (Django, Flask) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat) (Laravel, OOP) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat) 
 
 **Testing & Quality Assurance**
 - Comprehensive testing: Functional, Regression, Smoke testing
