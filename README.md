@@ -9,11 +9,29 @@
 ## 💻 Technical Expertise
 
 ### 🛠 Core Skills
+
+**Development & Maintenance**
 - Full-stack web development (4+ years experience)
-- LMS platforms: MOODLE, TOTARA, MAHARA
-- Web application maintenance & technical support
-- API testing & data integrations (Postman)
-- CI/CD pipelines & version control (GitHub/GitLab)
+- LMS platform expertise: ![Moodle](https://img.shields.io/badge/Moodle-FF6B00?style=flat&logo=moodle&logoColor=white) ![Totara](https://img.shields.io/badge/Totara-1F3A93?style=flat) ![Mahara](https://img.shields.io/badge/Mahara-234D6E?style=flat) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+- CMS development: ![SilverStripe](https://img.shields.io/badge/SilverStripe-0083C7?style=flat) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+- Frontend technologies: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+- Backend development: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) (OOP, Laravel)
+
+**Testing & Quality Assurance**
+- Comprehensive testing: Functional, Regression, Smoke testing
+- API testing with ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- Data integration validation
+
+**Analytics & Reporting**
+- Custom analytics solutions with ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) API
+- Data visualization with ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+- Business intelligence reporting
+
+**DevOps & Technical Operations**
+- Version control: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+- CI/CD pipeline management
+- Deployment automation
+- Technical support & troubleshooting
 
 ### 🔧 Technologies
 
@@ -41,7 +59,6 @@
 
 ## 🚀 Notable Projects
 
-## 🚀 Projects
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
